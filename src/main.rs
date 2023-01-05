@@ -265,7 +265,7 @@ impl Circuit<Fp> for MyCircuit {
 // }
 
 
-Real HALO2 proof
+// without mock HALO2 proof
 fn main() {
     let x = Fp::from(3);
     let constant = Fp::from(5);
